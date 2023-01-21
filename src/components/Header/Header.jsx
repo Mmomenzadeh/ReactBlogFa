@@ -6,8 +6,8 @@ const Header =()=>{
 
     return(
         <div className="header-container" >
-           <div> <Poster /> </div> 
            <div><Form /></div> 
+           <div> <Poster /> </div> 
 
 
         </div>

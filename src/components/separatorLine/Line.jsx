@@ -8,4 +8,13 @@ export const LineH = ()=>{
             <div className="line"></div>
         </div>
     )
-}
+
+    }
+
+
+    export const LineV =()=>{
+
+        return(
+            <div className="lineV"></div>
+        )
+    }
