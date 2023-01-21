@@ -1,0 +1,18 @@
+.line-container-H{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 50px;
+}
+.line{
+    height: 1px;
+    background-color: #7070708e;
+    width: 45%;  
+}
+
+.line-container-H p{
+    font-size: 9px;
+    color: blue;
+
+}
