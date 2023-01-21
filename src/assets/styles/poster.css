@@ -1,0 +1,15 @@
+.poster{
+    background-color: #5b5bff;
+    height: 130px;
+    padding: 10px 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+    font-size: 10px;
+    line-height: 2;
+    gap: 20px;
+
+}

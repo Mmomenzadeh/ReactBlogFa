@@ -1,0 +1,24 @@
+.form{
+    background-color: #f2f2f2;
+    height: 130px;
+    width: 280px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+}
+
+.form input{
+    outline: none;
+    border: none;
+    text-align: center;
+    padding: 3px;
+}
+.form a {
+    text-align: center;
+    font-size: 8px;
+    color: #551a8b;
+    cursor: pointer;
+    text-decoration: none;
+
+}
